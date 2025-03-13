@@ -4,7 +4,7 @@ This repository is the offical implement of the CVPR 2025 paper:
 
 ## To do list
 - [x] release changed ultralytics pkgs
-- [ ] release attack code
+- [x] release attack code
 - [ ] release AT code
 - [ ] release checkpoint and traning log
 - [ ] update README.md
