@@ -5,8 +5,8 @@ This repository is the official implement of the CVPR 2025 paper:
 ## To do list
 - [x] release changed ultralytics packages
 - [x] release attack codes
-- [ ] release AT codes
-- [ ] release checkpoint and training log
+- [x] release AT codes
+- [x] release checkpoint and training log
 - [ ] update README.md
 
 For details on the Ultralytics package changes, see `robust_pkgs/changes.diff`
@@ -80,3 +80,6 @@ python latency_attack.py
 ```
 
 ![Results](./demo_imgs/X1DIs2K7h7.png "Run Results")
+
+## Yolov5s checkpoints on VOC
+[Checkpoint](https://drive.google.com/drive/folders/1S6WiSPjZOi3jaJeESExrrenoREywHBMG?usp=drive_link)
