@@ -7,7 +7,7 @@ This repository is the official implement of the CVPR 2025 paper:
 - [x] release attack codes
 - [x] release AT codes
 - [x] release checkpoint and training log
-- [ ] update README.md
+- [x] update README.md
 
 For details on the Ultralytics package changes, see `robust_pkgs/changes.diff`
 
@@ -83,3 +83,15 @@ python latency_attack.py
 
 ## Yolov5s checkpoints on VOC
 [Checkpoint](https://drive.google.com/drive/folders/1S6WiSPjZOi3jaJeESExrrenoREywHBMG?usp=drive_link)
+
+## Cite
+```latex
+@InProceedings{Wang_2025_CVPR,
+    author    = {Wang, Tianyi and Wang, Zichen and Wang, Cong and Shu, Yuanchao and Deng, Ruilong and Cheng, Peng and Chen, Jiming},
+    title     = {Can't Slow Me Down: Learning Robust and Hardware-Adaptive Object Detectors against Latency Attacks for Edge Devices},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {19230-19240}
+}
+```
